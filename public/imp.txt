@@ -1,0 +1,34 @@
+Here comes the next assignment ..... 
+Let us go a bit professional .... 
+Please read whole very carefully....
+As you are already done with few previous assignments and the last assignment also which was given to you to be done in a specific time
+.
+Now you have to built an attractive website for any educational base institution which includes schools , colleges , coaching centers etc
+.
+Note: What ever you are making just name that institution with your name
+for e.g: If I am making this assignment so names I can use will be:
+1, Muhammad Ali School ...... or 
+2, Muhammad Ali College ........ or
+3, Muhammad Ali Coaching Center
+etc.
+Following are the important notes which you will have to follow while building this website:
+1, Your website must contain atleast 4 or more pages which can be connected through navigation bar.
+2, You can use custom css and html to complete this assignment or now if you want you may use bootstrap too but more focus should be on customm css
+3, If you can make your website responsive so that will be highly appreciable otherwise this is not must.
+4, Your assignment should be host on firebase and also must mention your github link so that your code can be view
+5, No student is allow to copy any of your fellow code
+.
+Important Note:
+........ As I have not provide you any layout image or any thing so that means now you have to think completely by your own that how you are gonna design your website, what colours you are going to use .... ALL WILL BE YOUR OWN DECISIONS.
+Here are some examples of websites from where u can take help:
+1, http://thecityschool.edu.pk/
+2, http://bva.edu.pk/
+3, http://www.beaconhouse.edu.pk/
+4, http://www.seaviewacademy.com/
+5, http://www.lyceumschool.edu.pk/
+and many many others which can be search from google.
+.
+You need to complete this till friday night i.e. (14 July 2016)
+That means 11 days where 11 - 4 eid days = 7 days which are pretty enough to complete this assignment 
+.
+Best of Luck
